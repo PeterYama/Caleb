@@ -8,7 +8,7 @@ const firebase = require('firebase')
 
 // Firebase Config
 const config = {
-    apiKey: "AIzaSyCzVY1v5Qvv2KRvB9o9HaeW9WJrfZM3wxk",
+    apiKey: "",
     authDomain: "caleb-a4836.firebaseapp.com",
     projectId: "caleb-a4836",
     storageBucket: "caleb-a4836.appspot.com",
